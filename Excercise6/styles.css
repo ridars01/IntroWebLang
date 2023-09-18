@@ -1,0 +1,11 @@
+body{
+    background-color: green;
+}
+#main-title{
+    font-weight: bold;
+}
+p.content{
+    font-weight: bold;
+    margin: 12px;
+    
+}
